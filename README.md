@@ -3,6 +3,7 @@
 This project uses **Machine Learning** to predict whether a user will purchase a product based on their **Age**, **Gender**, and **Estimated Salary**.
 
 A trained Random Forest model is deployed using **Gradio** on **Hugging Face Spaces**.
+
 🔗 https://huggingface.co/spaces/miraz3301/Social-Network-Ads
 
 ---
