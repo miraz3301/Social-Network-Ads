@@ -1,12 +1,13 @@
-# 🛒 Social Network Ads Purchase Prediction
+# Social Network Ads Purchase Prediction
 
 This project uses **Machine Learning** to predict whether a user will purchase a product based on their **Age**, **Gender**, and **Estimated Salary**.
 
 A trained Random Forest model is deployed using **Gradio** on **Hugging Face Spaces**.
+🔗 https://huggingface.co/spaces/miraz3301/Social-Network-Ads
 
 ---
 
-## 📌 Project Features
+## Project Features
 - Data preprocessing & scaling
 - Machine Learning model training (Random Forest)
 - Model evaluation (Accuracy, Precision, Recall, F1 Score)
@@ -15,7 +16,7 @@ A trained Random Forest model is deployed using **Gradio** on **Hugging Face Spa
 
 ---
 
-## 📂 Dataset
+## Dataset
 **Social Network Ads Dataset:**
 https://www.kaggle.com/datasets/rakeshrau/social-network-ads
 
@@ -28,7 +29,7 @@ Target:
 
 ---
 
-## 🧠 Machine Learning Workflow
+## Machine Learning Workflow
 1. Load and explore dataset
 2. Encode categorical features
 3. Normalize Age & Salary
@@ -40,13 +41,13 @@ Target:
 
 ---
 
-## 🖥️ Live Demo
+## Live Demo
 🔗 **Hugging Face App**  
 https://huggingface.co/spaces/miraz3301/Social-Network-Ads
 
 ---
 
-## ⚙️ How to Run Locally
+## How to Run Locally
 
 ### Install dependencies:
 ```bash
