@@ -151,4 +151,4 @@ app = gr.Interface(
     title="Purchase Prediction App"
 )
 
-app.launch()
+app.launch(share=True)
